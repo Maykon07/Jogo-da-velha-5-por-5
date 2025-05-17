@@ -102,4 +102,4 @@ Cada um representará um jogador diferente (Jogador 1, 2 e 3).
 ## 👨‍💻 Autoria
 
 Projeto acadêmico para a disciplina **Sistemas Distribuídos**.
-Desenvolvido por Maykon de Souza Santos
+### Desenvolvido por Maykon de Souza Santos
