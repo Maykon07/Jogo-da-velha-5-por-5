@@ -1,7 +1,7 @@
 
 # 🕹️ Jogo da Velha 5x5 com 3 Jogadores (Java RMI)
 
-Este projeto implementa um **Jogo da Velha (Tic-Tac-Toe)** de **5x5 casas**, com suporte a **3 jogadores remotos**, utilizando **Java RMI (Remote Method Invocation)** como base da comunicação distribuída.
+Este projeto implementa um **Jogo da Velha** de **5x5 casas**, com suporte a **3 jogadores remotos**, utilizando **Java RMI (Remote Method Invocation)** como base da comunicação distribuída.
 
 ## 📌 Objetivo
 
@@ -59,7 +59,7 @@ java server.ServerMain
 
 ### 4. Abrindo os jogadores
 
-Abra 3 terminais (ou execute 3 vezes):
+Abra 3 terminais e execute em cada um:
 
 ```bash
 java client.ClienteMain
