@@ -94,7 +94,7 @@ Cada um representará um jogador diferente (Jogador 1, 2 e 3).
 ## 📚 Conceitos Envolvidos
 
 - Comunicação remota via **Java RMI**
-- Conceitos de **sincronização** com `synchronized`
+- Conceitos de **sincronização**
 - **Programação orientada a objetos**
 - Interface com **Swing**
 
