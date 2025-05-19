@@ -87,7 +87,6 @@ Cada um representará um jogador diferente (Jogador 1, 2 e 3).
 ## 🛠️ Melhorias Implementadas
 
 - Interface gráfica com clique nas casas.
-- Verificação automática de vitória e empate.
 - Todos os jogadores são notificados do resultado.
 - Reinício automático da partida após fim de jogo.
 - Mensagens de “aguarde sua vez” e jogada inválida.
