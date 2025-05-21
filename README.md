@@ -84,6 +84,32 @@ Cada um representará um jogador diferente (Jogador 1, 2 e 3).
 - Sistema operacional Windows, Linux ou Mac
 - Interface pode ser testada localmente, com múltiplas janelas
 
+## 🔄 CICLO DO JOGO
+Servidor é iniciado e aguarda conexões.
+
+Cada cliente se conecta e recebe um ID de jogador.
+
+Quando é a vez do jogador, ele clica em uma casa:
+
+O cliente chama fazerJogada() no servidor.
+
+O servidor valida e atualiza o tabuleiro.
+
+Todos os clientes atualizam suas telas com getTabuleiro().
+
+O servidor detecta vitória ou empate:
+
+Todos os clientes são notificados.
+
+O jogo reinicia automaticamente.
+
+
+
+## Exemplo do jogo na mesma maquina
+![alt text](image.png)
+
+![alt text](image-1.png)
+
 ## 🛠️ Melhorias Implementadas
 
 - Interface gráfica com clique nas casas.

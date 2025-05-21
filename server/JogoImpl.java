@@ -15,6 +15,7 @@ public class JogoImpl extends UnicastRemoteObject implements JogoInterface {
     private int jogadorAtual;  // indica qual jogador deve jogar na vez atual
     private int jogadoresRegistrados; // contador de jogadores conectados
 
+    // Construtor da classe JogoImpl.
     public JogoImpl() throws RemoteException {
         tabuleiro = new char[5][5];
         jogadorAtual = 1;
