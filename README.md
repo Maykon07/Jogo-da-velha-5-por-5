@@ -89,19 +89,19 @@ Servidor é iniciado e aguarda conexões.
 
 Cada cliente se conecta e recebe um ID de jogador.
 
-Quando é a vez do jogador, ele clica em uma casa:
+- Quando é a vez do jogador, ele clica em uma casa:
 
-O cliente chama fazerJogada() no servidor.
+     O cliente chama fazerJogada() no servidor.
 
-O servidor valida e atualiza o tabuleiro.
+     O servidor valida e atualiza o tabuleiro.
 
-Todos os clientes atualizam suas telas com getTabuleiro().
+     Todos os clientes atualizam suas telas com getTabuleiro().
 
-O servidor detecta vitória ou empate:
+- O servidor detecta vitória ou empate:
 
-Todos os clientes são notificados.
+     Todos os clientes são notificados.
 
-O jogo reinicia automaticamente.
+     O jogo reinicia automaticamente.
 
 
 
